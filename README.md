@@ -15,6 +15,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Screenshots
+
+![Screenshot](screenshots/image1.JPG)
+![Screenshot](screenshots/image2.JPG)
+
 ## To run
 
 1. Go to the project directory.
