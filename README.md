@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Screenshot](screenshots/image1.JPG)
-![Screenshot](screenshots/image2.JPG)
+![Screenshot](screenshots/image1.jpg)
+![Screenshot](screenshots/image2.jpg)
 
 ## To run
 
